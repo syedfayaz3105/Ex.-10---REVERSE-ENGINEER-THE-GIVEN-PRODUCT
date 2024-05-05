@@ -31,11 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![243181166-ea8ba611-8ed7-4edc-ace7-bcf5fb9709d7](https://github.com/syedfayaz3105/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147144126/0057189a-fef8-4cd4-bdfc-4fa96c22fe05)
+![326429395-3c0bc84a-30d3-4c3b-b706-0cc71f51615c](https://github.com/syedfayaz3105/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147144126/0f981ec7-1401-4d38-ba2e-ea19d278ae4d)
+
 
 ### Output:
+![326429430-185451f3-1e64-4aef-95d3-c1d78121fae1](https://github.com/syedfayaz3105/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147144126/6a736d5b-5d89-4b89-a686-769be1846c6a)
 
-![243181171-d7a6e0ae-9e32-4296-8aa0-65dd2d30f9b3](https://github.com/syedfayaz3105/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147144126/753be5e8-5627-4ea4-a9c4-83e844f4ed41)
 
 ### Name:FARHANA H
 ### Register Number:212223230057
